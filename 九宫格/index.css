@@ -1,0 +1,11 @@
+.wrapper {
+    padding: 3% 0 0 3%;
+}
+.square {
+    float: left;
+    width: 30%;
+    margin: 0 3% 3% 0;
+    padding: 30% 0 0 0;
+    border-radius: 10px;
+    background: orange;
+}
